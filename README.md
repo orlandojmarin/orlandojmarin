@@ -1,15 +1,16 @@
 # Hi, I'm Orlando Marin 👋
 
-### 🚀 Associate AI Platform Engineer · TechCatalyst DE 2026
+### 🚀 AI Platform Engineer · TechCatalyst DE 2026
 
-I'm building production-grade data engineering skills the hard way — by hand, no shortcuts.
+I'm building production-grade data engineering skills the hard way, by hand, no shortcuts.
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 I have a Bachelor's degree in Computer Science, with minors in Data Science and Mathematics, from Southern Connecticut State University.
-- 🛠️ Currently in the **TechCatalyst Data Engineering 2026** bootcamp at The Hartford.
+- 🎓 B.S. in Computer Science (minors in Data Science and Mathematics) from Southern Connecticut State University, Summa Cum Laude, 4.0 GPA
+- 🏢 AI Platform Engineer at The Hartford (previously interned, May-Aug 2025)
+- 🛠️ Currently in the **TechCatalyst Data Engineering 2026** bootcamp
 - 💡 I'm excited to take the skills that I learn during this bootcamp and apply them to the AI Platform team
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/orlandojmarin/)
 
@@ -36,10 +37,20 @@ Working through an 8-week, real-world data pipeline (NYC Taxi data) covering:
 
 ---
 
+## 📜 Certifications
+
+| Certification | Issuer | Issued |
+| :--- | :--- | :--- |
+| Generative AI Leader | Google | Oct 2025 |
+| Cloud Digital Leader | Google | Jun 2025 |
+| AWS Certified Cloud Practitioner | Amazon Web Services | May 2025 |
+
+---
+
 ## 🏗️ Projects
 
-- 🚧 **TechCatalyst Capstone (in progress):** an end-to-end data pipeline — ingestion, warehousing, transformation, and analytics. Details coming as I build it.
-- _Add your own repos here as you create them._
+- 🚧 **TechCatalyst Capstone (in progress):** an end-to-end data pipeline covering ingestion, warehousing, transformation, and analytics. Details coming as I build it.
+- 📂 [**TechCatalyst_DE_2026**](https://github.com/orlandojmarin/TechCatalyst_DE_2026) - my lab work and notes from the bootcamp
 
 ---
 
