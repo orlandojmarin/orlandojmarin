@@ -57,3 +57,4 @@ Working through an 8-week, real-world data pipeline (NYC Taxi data) covering:
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/orlandojmarin/
+- 🌐 Blog: https://orlandojmarin.github.io/data-blog/
